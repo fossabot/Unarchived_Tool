@@ -1,5 +1,7 @@
 Copyright (C) 2021 BharathKummagoori,
 
+This is licensed under MIT.
+
 
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
